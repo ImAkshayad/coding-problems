@@ -1,4 +1,4 @@
-# Java solutions to LeetCode problems
+# Python solutions to Hackerrank\LeetCode problems
 
 
 |  #   |                               Problem                                | Difficulty |    Topic    |
