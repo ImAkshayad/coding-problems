@@ -15,6 +15,7 @@
             - [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | [Solution](hackerrank/python/basic_data_types/list_comprehensions.py)
             - [Find the runner-up score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true) | [Solution](hackerrank/python/basic_data_types/runner_up_score.py)
             - [Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true) | [Solution](/hackerrank/python/basic_data_types/finding_the_percentage.py)
+            - [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](hackerrank/python/basic_data_types/tuples.py)
         - Strings
             - [Swap case](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Solution](hackerrank/python/strings/swap_case.py)
 
