@@ -18,10 +18,18 @@
             - [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](hackerrank/python/basic_data_types/tuples.py)
         - Strings
             - [Swap case](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | [Solution](hackerrank/python/strings/swap_case.py)
+            - [String split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true) | [Solution](hackerrank/python/strings/string_split_join.py)
+            - [What's your name?](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true) | [Solution](hackerrank/python/strings/whats_your_name.py)
+            - [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem?isFullScreen=true) | [Solution](hackerrank/python/strings/mutations.py)
+
 
     - SQL
         - Basic select
             - [Revising the select query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/select_query_I.sql)
+            - [Revising the select query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/select_query_II.sql)
+            - [Select all](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/select_all.sql)
+            - [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/select_by_id.sql)
+            - [Japanese cities' attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/japanese_cities_attributes.sql)
 
 
 - Leetcode
