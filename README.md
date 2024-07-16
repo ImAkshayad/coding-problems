@@ -3,7 +3,13 @@
 - Hackerrank
     - Algorithms
         - Warmup
-            - [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [Solution]()
+            - [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [Solution](hackerrank/algorithms/warmup/plus_minus.py)
+            - [Mini-Max sum](https://www.hackerrank.com/challenges/mini-max-sum/) | [Solution](hackerrank/algorithms/warmup/mini_max_sum.py)
+            - [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [Solution](hackerrank/algorithms/warmup/time_conversion.py)
+    - Data structures
+        - Linked lists
+            [Print the elements of a linked list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](hackerrank/data_structures/linked_list/print_linked_list_elements.py)
+
     - Python
         - Introduction
             - [Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](hackerrank/python/introduction/hello_world.py)
