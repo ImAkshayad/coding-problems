@@ -1,6 +1,9 @@
 # Python solutions
 
 - Hackerrank
+    - Algorithms
+        - Warmup
+            - [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [Solution]()
     - Python
         - Introduction
             - [Hello World](https://www.hackerrank.com/challenges/py-hello-world/problem?isFullScreen=true) | [Solution](hackerrank/python/introduction/hello_world.py)
