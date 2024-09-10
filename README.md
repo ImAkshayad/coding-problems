@@ -40,6 +40,22 @@
             - [Select all](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/select_all.sql)
             - [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/select_by_id.sql)
             - [Japanese cities' attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/japanese_cities_attributes.sql)
+            - [Japanese cities' names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/japanese_cities_names.sql)
+            - [Weather observation station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_1.sql)
+            - [Weather observation station 2]() | [Solution]()
+            - [Weather observation station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_3.sql)
+            - [Weather observation station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_4.sql)
+            - [Weather observation station 5]() | [Solution]()
+            - [Weather observation station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_6.sql)
+            - [Weather observation station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_7.sql)
+            - [Weather observation station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_8.sql)
+            - [Weather observation station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_9.sql)
+            - [Weather observation station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_10.sql)
+            - [Weather observation station 11](https://www.hackerrank.com/challenges/weather-observation-station-11?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_11.sql)
+            - [Weather observation station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem?isFullScreen=true) | [Solution](hackerrank/sql/basic_select/weather_observation_station_12.sql)
+            
+
+
 
 
 - Leetcode
