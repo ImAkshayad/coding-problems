@@ -6,7 +6,8 @@
             - [Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true) | [Solution](hackerrank/algorithms/warmup/plus_minus.py)
             - [Mini-Max sum](https://www.hackerrank.com/challenges/mini-max-sum/) | [Solution](hackerrank/algorithms/warmup/mini_max_sum.py)
             - [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [Solution](hackerrank/algorithms/warmup/time_conversion.py)
-    
+        - Implementation
+            - [Breaking best and worst records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](hackerrank/algorithms/implementation/breaking_best_and_worst_records.py)
     - Data structures
         - Linked lists
             [Print the elements of a linked list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](hackerrank/data_structures/linked_list/print_linked_list_elements.py)
