@@ -62,6 +62,7 @@
 - Leetcode
     - Arrays
         | Problem | Python | CPP | Java |
+        |---|---|---|---|
         |[Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](leetcode/arrays/python/RemoveDuplicates.py)| | |
         - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](leetcode/arrays/python/first-unique-character-in-a-string.py)| | |
         - [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/arrays/python/remove-element.py)| | |
