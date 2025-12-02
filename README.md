@@ -73,4 +73,6 @@
         |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](leetcode/arrays/python/first-unique-character-in-a-string.py)| | |
         |[Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/arrays/python/remove-element.py)| | |
     - Math
+        | Problem | Python | CPP | Java |
+        |---|---|---|---|
         |[Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/) | [Solution](leetcode/math/python/palindrome.py)| | |
