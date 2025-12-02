@@ -1,4 +1,4 @@
-# Python solutions
+# Solutions to DSA problems
 
 - Hackerrank
     - Algorithms
@@ -61,8 +61,9 @@
 
 - Leetcode
     - Arrays
-        - [Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](leetcode/arrays/RemoveDuplicates.py) 
-        - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](leetcode/arrays/first-unique-character-in-a-string.py)
-        - [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/arrays/remove-element.py)
+        | Problem | Python | CPP | Java |
+        |[Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](leetcode/arrays/python/RemoveDuplicates.py)| | |
+        - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](leetcode/arrays/python/first-unique-character-in-a-string.py)| | |
+        - [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/arrays/python/remove-element.py)| | |
     - Math
-        - [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](leetcode/math/palindrome.py)
+        - [Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/) | [Solution](leetcode/math/python/palindrome.py)| | |
