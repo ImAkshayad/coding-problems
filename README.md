@@ -8,6 +8,7 @@
             - [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [Solution](hackerrank/algorithms/warmup/time_conversion.py)
         - Implementation
             - [Breaking best and worst records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](hackerrank/algorithms/implementation/breaking_best_and_worst_records.py)
+    
     - Data structures
         - Linked lists
             [Print the elements of a linked list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](hackerrank/data_structures/linked_list/print_linked_list_elements.py)
@@ -59,12 +60,17 @@
 
 
 
+    - Java
+        | Problem | Solution |
+        |---|---|
+        |[Java stdin and stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)|[Solution](hackerrank\java\introduction\java_stdin_stdout_1.java)|
+        |[Java If Else](https://www.hackerrank.com/challenges/java-if-else)|[Solution](hackerrank\java\introduction\java_if_else.java)|
 - Leetcode
     - Arrays
         | Problem | Python | CPP | Java |
         |---|---|---|---|
         |[Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](leetcode/arrays/python/RemoveDuplicates.py)| | |
-        - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](leetcode/arrays/python/first-unique-character-in-a-string.py)| | |
-        - [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/arrays/python/remove-element.py)| | |
+        |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](leetcode/arrays/python/first-unique-character-in-a-string.py)| | |
+        |[Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/arrays/python/remove-element.py)| | |
     - Math
-        - [Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/) | [Solution](leetcode/math/python/palindrome.py)| | |
+        |[Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/) | [Solution](leetcode/math/python/palindrome.py)| | |
