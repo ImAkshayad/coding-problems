@@ -20,3 +20,14 @@ class Solution:
             if second_element in index_mapping and index_mapping[second_element] != i:
                 return [i,index_mapping[second_element]]
         return []
+
+# Solution 3: Hash Table          
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        mapping = {}
+        
+        for index,num in enumerate(nums):
+            diff = target - num
+            if diff in mapping:
+                return [mapping[diff],index]
+            mapping[num] = index
