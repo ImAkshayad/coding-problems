@@ -75,7 +75,7 @@
         |[Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/)| [Solution](leetcode/math/python/palindrome.py)| | |
         |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](leetcode\math\python\fizz_buzz.py)| |[Solution](leetcode\math\java\fizz_buzz.java) |    
         |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](leetcode\math\python\best_time_to_buy_and_sell_stock.py)| |[Solution](leetcode\math\java\best_time_to_buy_and_sell_stock.java)|
-        |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](coding-problems\leetcode\python\search_in_rotated_sorted_array.py)| | |        
+        |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](leetcode\python\search_in_rotated_sorted_array.py)| | |        
     - SQL
         | Problem | Solution |
         |---|---|
