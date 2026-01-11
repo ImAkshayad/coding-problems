@@ -69,12 +69,12 @@
     - Python | Java | C++
         | Problem | Python | CPP | Java |
         |---|---|---|---|
-        |[Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](leetcode/arrays/python/RemoveDuplicates.py)| | |
-        |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](leetcode/arrays/python/first-unique-character-in-a-string.py)| | |
-        |[Remove Element](https://leetcode.com/problems/remove-element/) |[Solution](leetcode/arrays/python/remove-element.py)| | |
-        |[Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/)| [Solution](leetcode/math/python/palindrome.py)| | |
-        |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](leetcode/math/python/fizz_buzz.py)| |[Solution](leetcode/math/java/fizz_buzz.java) |    
-        |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](leetcode/math/python/best_time_to_buy_and_sell_stock.py)| |[Solution](leetcode/math/java/best_time_to_buy_and_sell_stock.java)|
+        |[Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](leetcode/python/RemoveDuplicates.py)| | |
+        |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](leetcode/python/first-unique-character-in-a-string.py)| | |
+        |[Remove Element](https://leetcode.com/problems/remove-element/) |[Solution](leetcode/python/remove-element.py)| | |
+        |[Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/)| [Solution](leetcode/python/palindrome.py)| | |
+        |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](leetcode/math/python/fizz_buzz.py)| |[Solution](leetcode/java/fizz_buzz.java) |    
+        |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](leetcode/python/best_time_to_buy_and_sell_stock.py)| |[Solution](leetcode/java/best_time_to_buy_and_sell_stock.java)|
         |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](leetcode/python/search_in_rotated_sorted_array.py)| | |        
     - SQL
         | Problem | Solution |
