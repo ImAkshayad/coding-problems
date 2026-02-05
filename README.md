@@ -1,4 +1,4 @@
-# Python solutions
+# Solutions to DSA problems
 
 - Hackerrank
     - Algorithms
@@ -8,6 +8,7 @@
             - [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [Solution](hackerrank/algorithms/warmup/time_conversion.py)
         - Implementation
             - [Breaking best and worst records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Solution](hackerrank/algorithms/implementation/breaking_best_and_worst_records.py)
+    
     - Data structures
         - Linked lists
             [Print the elements of a linked list](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem) | [Solution](hackerrank/data_structures/linked_list/print_linked_list_elements.py)
@@ -59,7 +60,13 @@
 
 
 
+    - Java
+        | Problem | Solution |
+        |---|---|
+        |[Java stdin and stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1)|[Solution](hackerrank/java/introduction/java_stdin_stdout_1.java)|
+        |[Java If Else](https://www.hackerrank.com/challenges/java-if-else)|[Solution](hackerrank/java/introduction/java_if_else.java)|
 - Leetcode
+<<<<<<< HEAD
     - Python
         - Arrays
             - [Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](leetcode/python/RemoveDuplicates.py) 
@@ -71,3 +78,19 @@
     - SQL
         - [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Solution](leetcode/sql/duplicate_email.sql) 
         - [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [Solution](leetcode/sql/combine_two_tables.sql) 
+=======
+    - Python | Java | C++
+        | Problem | Python | CPP | Java |
+        |---|---|---|---|
+        |[Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](leetcode/python/RemoveDuplicates.py)| | |
+        |[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](leetcode/python/first-unique-character-in-a-string.py)| | |
+        |[Remove Element](https://leetcode.com/problems/remove-element/) |[Solution](leetcode/python/remove-element.py)| | |
+        |[Palindrome Number](https://leetcode.com/problems/palindrome-number/python/description/)| [Solution](leetcode/python/palindrome.py)| | |
+        |[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Solution](leetcode/math/python/fizz_buzz.py)| |[Solution](leetcode/java/fizz_buzz.java) |    
+        |[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)|[Solution](leetcode/python/best_time_to_buy_and_sell_stock.py)| |[Solution](leetcode/java/best_time_to_buy_and_sell_stock.java)|
+        |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](leetcode/python/search_in_rotated_sorted_array.py)| | |        
+    - SQL
+        | Problem | Solution |
+        |---|---|
+        |[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)|[Solution](leetcode/sql/replace-employee-id-with-the-unique-identifier.sql)|
+>>>>>>> 62dab9c0396186d34d998735d052bce6db02aefa
