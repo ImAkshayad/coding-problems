@@ -70,3 +70,4 @@
             - [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](leetcode/python/palindrome.py)
     - SQL
         - [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/) | [Solution](leetcode/sql/duplicate_email.sql) 
+        - [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/) | [Solution](leetcode/sql/combine_two_tables.sql) 
