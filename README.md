@@ -68,7 +68,9 @@
             - [Remove duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](leetcode/python/RemoveDuplicates.py) 
             - [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](leetcode/python/first-unique-character-in-a-string.py)
             - [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/python/remove-element.py)
-            - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Solution](leetcode/python/sort_array_by_parity.py)           
+            - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Solution](leetcode/python/sort_array_by_parity.py) 
+            - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](leetcode\python\sort_array_by_parity_II.py) 
+            - [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](leetcode/python/sort_colors.py)           
         - Math
             - [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](leetcode/python/palindrome.py)
     - SQL
