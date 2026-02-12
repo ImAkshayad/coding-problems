@@ -70,7 +70,8 @@
             - [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution](leetcode/python/remove-element.py)
             - [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [Solution](leetcode/python/sort_array_by_parity.py) 
             - [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | [Solution](leetcode/python/sort_array_by_parity_II.py) 
-            - [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](leetcode/python/sort_colors.py)    
+            - [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](leetcode/python/sort_colors.py)  
+            - [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Solution](leetcode/python/valid_sudoku.py)                
         - Strings
             - [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](leetcode/python/string_to_integer_atoi.py)                
         - Math
